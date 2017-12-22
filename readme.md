@@ -1,4 +1,6 @@
 ## Basic laravel passport api auth
+[Laravel](https://github.com/laravel/laravel)
+[Laravel Passport](https://github.com/laravel/passport)
 
 - `git clone `
 - `cd `
